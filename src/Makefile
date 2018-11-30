@@ -58,6 +58,7 @@ SRC =			\
 	stm32h7.c	\
 	stm32l0.c	\
 	stm32l4.c	\
+	synwit.c	\
 	swdptap.c	\
 	swdptap_generic.c	\
 	target.c	\

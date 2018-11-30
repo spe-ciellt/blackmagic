@@ -340,6 +340,7 @@ bool cortexm_probe(ADIv5_AP_t *ap, bool forced)
 	PROBE(sam4l_probe);
 	PROBE(nrf51_probe);
 	PROBE(samd_probe);
+	PROBE(synwit_probe);
 	PROBE(lmi_probe);
 	PROBE(kinetis_probe);
 	PROBE(efm32_probe);
